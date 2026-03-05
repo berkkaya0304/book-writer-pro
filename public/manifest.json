@@ -1,0 +1,16 @@
+{
+  "name": "Book Writer Pro",
+  "short_name": "Writer",
+  "description": "Professional Book Writing Application",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#6366f1",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    }
+  ]
+}
